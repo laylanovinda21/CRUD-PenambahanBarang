@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CRUDBarang\CRUDBarang\obj\Debug\CRUDBarang.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CRUDBarang\CRUDBarang\obj\Debug\CRUDBarang.Properties.Resources.resources
+C:\Users\User\source\repos\CRUDBarang\CRUDBarang\obj\Debug\CRUDBarang.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CRUDBarang\CRUDBarang\obj\Debug\CRUDBarang.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CRUDBarang\CRUDBarang\obj\Debug\CRUDBarang.Form1.resources
+C:\Users\User\source\repos\CRUDBarang\CRUDBarang\bin\Debug\CRUDBarang.exe.config
+C:\Users\User\source\repos\CRUDBarang\CRUDBarang\bin\Debug\CRUDBarang.exe
+C:\Users\User\source\repos\CRUDBarang\CRUDBarang\bin\Debug\CRUDBarang.pdb
+C:\Users\User\source\repos\CRUDBarang\CRUDBarang\obj\Debug\CRUDBarang.exe
+C:\Users\User\source\repos\CRUDBarang\CRUDBarang\obj\Debug\CRUDBarang.pdb
+C:\Users\User\source\repos\CRUDBarang\CRUDBarang\bin\Debug\mydb.accdb
+C:\Users\User\source\repos\CRUDBarang\CRUDBarang\bin\Debug\BetaMart.accdb
